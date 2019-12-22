@@ -20,7 +20,7 @@ echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
 # download do repositório do sublime-text3
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
 
-# habilota o reporitório
+# habilita o repositório
 echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 
 # atualiza os repositórios
@@ -33,7 +33,7 @@ sudo apt install sublime-text fish
 brew install hugo
 ```
 
-- É importante ter um lugar para trabalhar. Eu vou trabalha em um endereço que é o seginte: ```~/Documentos/aula/blog/go_youtube/projeto_hugo_theme```.
+- É importante ter um lugar para trabalhar. Eu vou trabalha em um endereço que é o seguinte: ```~/Documentos/aula/blog/go_youtube/projeto_hugo_theme```.
 
 - Pra isso eu vou digitar no terminal:
 
@@ -112,7 +112,7 @@ hugo new site m-ti-hugo-theme
 cd m-ti-hugo-theme
 ```
 
-- Agora vou iniciar o git para o projeto no meu github e, também para poder pegar themes.
+- Agora vou iniciar o git para o projeto no meu github e também para poder pegar themes.
 
 - O repositório já existe no meu [github](https://github.com/tmenegaz). Se você não sabe o básico do git com o github, dá uma olhada no meu vídeo [Git portable - Windows 10](https://youtu.be/CPPl0gNLYVg).
 
@@ -143,4 +143,4 @@ hugo new posts/meu-primeiro-post.md
 hugo server -D
 ```
 
-- Agora é só abrir no vegador em  ```http://localhost:1313/```.
+- Agora é só abrir no navegador em  ```http://localhost:1313/```.
