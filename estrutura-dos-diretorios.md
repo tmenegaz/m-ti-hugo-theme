@@ -2,7 +2,7 @@
 
 [![Hugo - Estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/hqdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
 
-> Script em bash para retomar o treinamento a partir do final do vídeo 2(![comandos básicos, theme e conteúdo]()): ![video-2.sh](./scripts/video-2.sh)
+> Script em bash para retomar o treinamento a partir do final do vídeo 2(![comandos básicos, theme e conteúdo](comandos-basicos-theme-conteudo.md)): ![video-2.sh](./scripts/video-2.sh)
 
 - Abra o seu editor no projeto que você criou, conforme o vídeo anterior e deixe o terminal aberto.
  
