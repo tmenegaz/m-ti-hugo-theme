@@ -1,6 +1,6 @@
 # Estrutura dos diretórios
 
-[![Hugo - Estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/maxresdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
+[![Hugo - Estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/hqdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
 
 > Script em bash para retomar o treinamento a partir do final do vídeo 2(![comandos básicos, theme e conteúdo]()): ![video-2.sh](./scripts/video-2.sh)
 
