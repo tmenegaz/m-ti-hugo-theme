@@ -6,6 +6,6 @@
 
 [Apresentação e instalação](./apresentacao-instalacao.md)
 
-[Comandos básicos,theme e conteúdo](./comandos-basicos-theme-conteudo.md)
+[Comandos básicos, theme e conteúdo](./comandos-basicos-theme-conteudo.md)
 
 [Estrutura dos diretórios](./estrutura-dos-diretorios.md)
