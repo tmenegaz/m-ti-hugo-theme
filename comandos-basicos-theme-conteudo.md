@@ -1,4 +1,4 @@
-[Readme](./README.md "README") | [<- Voltar](./apresentacao-instalacao.md "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md "Estrutura dos diretórios")
+[Readme](./README.md#publicações "README") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")
 
 # Ambiente de desenvolvimento, comandos básicos, theme e conteúdo
 
@@ -152,4 +152,4 @@ hugo server -D
 
 - Agora é só abrir no navegador em  ```http://localhost:1313/```.
 
-[Readme](./README.md "README") | [<- Voltar](./apresentacao-instalacao.md "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md "Estrutura dos diretórios")
+[Readme](./README.md#publicações "README") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")

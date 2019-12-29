@@ -1,4 +1,4 @@
-[Readme](./README.md "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md "Comandos básicos, theme e conteúdo") | [Próximo ->](./# "#")
+[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./# "#")
 
 # Estrutura dos diretórios
 
