@@ -1,3 +1,5 @@
+[<- Voltar](./comandos-basicos-theme-conteudo.md "Comandos básicos,theme e conteúdo") | [Próximo ->](./# "#")
+
 # Estrutura dos diretórios
 
 [![Hugo - Estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/hqdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
