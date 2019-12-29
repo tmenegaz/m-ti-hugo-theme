@@ -112,7 +112,7 @@ mkdir -p layouts/shortcodes/
 
 > Esse diretório é usado para armazenar arquivos de configuração que podem ser usados ​​por Hugo ao gerar seu site. Você pode gravar esses arquivos no formato YAML, JSON ou TOML. Além dos arquivos adicionados a esta pasta, você também pode criar modelos de dados extraídos do conteúdo dinâmico. Veremos isso em outro vídeo.
 
-- O ```assets``` e o ```config``` não são criados automaticamente
+**O ```assets``` e o ```config``` não são criados automaticamente**
 
 ## config
 
