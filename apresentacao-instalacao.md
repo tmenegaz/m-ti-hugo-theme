@@ -1,4 +1,4 @@
-[Próximo ->](./comandos-basicos-theme-conteudo.md "Comandos básicos, theme e conteúdo")
+[Readme](./README.md "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md "Comandos básicos, theme e conteúdo")
 
 # [GOHUGO](https://gohugo.io)
 
@@ -90,4 +90,4 @@ Para isntalar no Mac você vai usar o [brew](https://brew.sh/)
 brew install hugo
 ```
 
-[Próximo ->](./comandos-basicos-theme-conteudo.md "Comandos básicos, theme e conteúdo")
+[Readme](./README.md "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md "Comandos básicos, theme e conteúdo")
