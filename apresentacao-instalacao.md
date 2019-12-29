@@ -1,4 +1,4 @@
-[Readme](./README.md "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md#GOHUGO "Comandos básicos, theme e conteúdo")
+[Readme](./README.md "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-basicos-theme-e-conteudo "Comandos básicos, theme e conteúdo")
 
 # [GOHUGO](https://gohugo.io)
 
