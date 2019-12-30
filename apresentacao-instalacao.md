@@ -90,4 +90,6 @@ Para isntalar no Mac você vai usar o [brew](https://brew.sh/)
 brew install hugo
 ```
 
+---
+
 [Readme](./README.md#publicações "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo")

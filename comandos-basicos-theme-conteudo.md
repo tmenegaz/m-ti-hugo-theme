@@ -152,4 +152,6 @@ hugo server -D
 
 - Agora é só abrir no navegador em  ```http://localhost:1313/```.
 
+---
+
 [Readme](./README.md#publicações "README") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")

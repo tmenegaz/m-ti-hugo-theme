@@ -7,3 +7,5 @@
 [Comandos básicos, theme e conteúdo](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo)
 
 [Estrutura dos diretórios](./estrutura-dos-diretorios.md#estrutura-dos-diretórios)
+
+---
