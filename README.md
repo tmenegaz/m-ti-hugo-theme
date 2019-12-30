@@ -8,6 +8,6 @@
 
 [Estrutura dos diretórios](./estrutura-dos-diretorios.md#estrutura-dos-diretórios)
 
-[Ramo e folha](./ramo-e-folha.md#ramo-e-folha.md)
+[Ramo e folha](./ramo-e-folha.md#ramo-e-folha)
 
 ---
