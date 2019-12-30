@@ -1,8 +1,8 @@
-[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./# "#")
+[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha#ramo-e-folha "Ramo e folha")
 
 # Estrutura dos diretórios
 
-[![Hugo - Estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/hqdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
+[![Hugo - estrutura dos diretórios](http://i3.ytimg.com/vi/qcUQXzdqqgU/hqdefault.jpg)](https://youtu.be/qcUQXzdqqgU)
 
 > Script em bash para retomar o treinamento a partir do final do vídeo 2(![comandos básicos, theme e conteúdo](comandos-basicos-theme-conteudo.md)): ![video-2.sh](./scripts/video-2.sh)
 
@@ -126,4 +126,4 @@ mkdir -p layouts/shortcodes/
 
 ---
 
-[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./# "#")
+[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha#ramo-e-folha "Ramo e folha")
