@@ -78,7 +78,7 @@ Esse é oconteúdo de ```_index.md```
 
 Agora é importante criar um arquivo chamado ```index.html``` em ```layouts/```
 
-Faça o download do arquivo [```modelo-v-1.zip```](./scrip/modelo-v-1.zip) para usar o modelo da ```home page```, se quiser, e extraia para dentro de ```static``` do seu projeto.
+Faça o download do arquivo [```modelo-v-1.zip```](./scripts/modelo-v-1.zip) para usar o modelo da ```home page```, se quiser, e extraia para dentro de ```static``` do seu projeto.
 
 Mova o arquivo ```index.html``` que você extraiu de ```modelo-v-1.zip``` para o diretório ```layouts``` ou, se preferir, crie o seu próprio junto com o diretório ```shortcodes```:
 
