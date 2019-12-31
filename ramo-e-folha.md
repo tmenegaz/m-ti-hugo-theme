@@ -51,7 +51,7 @@ A estrutura inicial ficou assim:
 
 ![Estrutura básica](./imagens/estrutura.png 'Estrutura básica gerada pelo comando "hugo new site m-ti-hugo-theme" e pacote de ramos com o comando "hugo new _index.md"')
 
-No seu arquivo ```_index.md``` escreva o ```title: "m ti - Moderna Tecnologia da Informação"``` e um pouco de conteúdo, como no [vídeo passado, para definir um shortcodes](./estrutura-dos-diretorios.md#layouts "Estrutura dos diretórios - layouts").
+No seu arquivo ```_index.md``` escreva o ```title: "m ti - Moderna Tecnologia da Informação"``` e um pouco de conteúdo, como no vídeo passado, para [```definir um shortcodes```](./estrutura-dos-diretorios.md#layouts "Estrutura dos diretórios - layouts").
 
 Esse é oconteúdo de ```_index.md```
 
@@ -78,9 +78,9 @@ Esse é oconteúdo de ```_index.md```
 
 Agora é importante criar um arquivo chamado ```index.html``` em ```layouts/```
 
-Faça o download do arquivo [```modelo-v-1.zip```](./scripts/modelo-v-1.zip) para usar o modelo da ```home page```, se quiser, e extraia para dentro de ```static``` do seu projeto.
+Faça o download do arquivo [```modelo-v-1.zip```](./scripts/modelo-v-1.zip) para usar o modelo da ```home page,``` se quiser, e extráia para dentro de ```static``` do seu projeto.
 
-Mova o arquivo ```index.html``` que você extraiu de ```modelo-v-1.zip``` para o diretório ```layouts``` ou, se preferir, crie o seu próprio junto com o diretório ```shortcodes```:
+Mova o arquivo ```index.html``` que você extraiu do ```modelo-v-1.zip``` para o diretório ```layouts``` ou, se preferir, crie o seu próprio, junto com o diretório ```shortcodes```:
 
 
 
@@ -88,12 +88,12 @@ Mova o arquivo ```index.html``` que você extraiu de ```modelo-v-1.zip``` para o
 # cria um arquivo index.html em layouts - pode substituir o comando ":>" por "touch" caso esteja no bash.
 :> layouts/index.html
 
-# cria o diretório shotcodes em layouts
+# cria o diretório em layouts
 mkdir -p layouts/shortcodes
 
 ```
 
-No arquivivo ```blocks.html``` que deve ser criado em ```layouts/shortcodes/```
+No arquivivo ```blocks.html,``` que deve ser criado em ```layouts/shortcodes/,```
 coloque esse código:
 
 ```html
@@ -106,11 +106,13 @@ coloque esse código:
 </div>
 ```
 
-É importante modificar a página ```index.html``` em ```layouts``` pra que funcione com as ```variáveis```  do ```hugo```.
+É importante modificar a página ```index.html,``` em ```layouts,``` pra que o ```blog``` funcione com as ```variáveis```  do ```hugo```.
 
 - Coloque um ```/``` antes que  cada ```css```
 
 - Em ```title``` substitua o título por ```{{ .Title }}``` para usar o título definido em ```content/_index.md```
+
+- Na ```div id=top-container">,``` em ```a href="/"``` substitua o  ```/``` por ```{{.URL}} 
 
 - Comente ou apague as div com ```class="blocks"``` e  ```class="blocks-1"```
 
