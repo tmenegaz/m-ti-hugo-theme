@@ -112,7 +112,7 @@ coloque esse código:
 
 - Em ```title``` substitua o título por ```{{ .Title }}``` para usar o título definido em ```content/_index.md```
 
-- Na ```div id=top-container">,``` em ```a href="/"``` substitua o  ```/``` por ```{{.URL}} 
+- Na ```div id=top-container">,``` em ```a href="/"``` substitua o  ```/``` por  ```{{.URL}} 
 
 - Comente ou apague as div com ```class="blocks"``` e  ```class="blocks-1"```
 
