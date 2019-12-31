@@ -59,7 +59,7 @@ Esse é oconteúdo de ```_index.md```
 {{< 
     blocks class1="blocks"
     
-    href="innerPage1.html"
+    href=""
         
     class2="blocks-inner"
         
@@ -75,14 +75,37 @@ Esse é oconteúdo de ```_index.md```
 >}}
 ```
 
+É importante organizar os diretórios e seguir as regras do ```hugo.``` Vimos que um dos fundomantos do ```hugo``` são os [pacotes de página](./ramo-e-folha.md#ramo-e-folha) e agora poderemos organizar os diretórios de ```content``` com uma [estrutura de diretórios](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") como essa:
+
+
+```bash
+# cria um lugar para os pacotes de posts e as imagens
+mkdir -p archetypes/post-bundle/images
+```
+
+> Tem uma imagem no material [Estrutura dos diretórios](./estrutura-dos-diretorios.md#archetypes "Estrutura dos diretórios")
+
+```bash
+# copiar ou colocar uma imagem (será usada em outro vídeo).
+sudo cp static/images/float.jpg archetypes/post-bundle/images/
+
+# uma folha para página
+:> archetypes/post-bundle/index.md
+```
+
+>Copie e cole o conteúdo do ```archetypes/default.md``` para o arquivo ```archetypes/post-bundle/index.md```.
+> Agora crie o post do tipo de pacote folha(página única), ```Float layout``` 
+
+```bash
+# o primeiro post com --kind para determinar que é do tipo post-bundle na seção post-bundle
+hugo new --kind post-bundle posts/float-layout
+```
 
 Agora é importante criar um arquivo chamado ```index.html``` em ```layouts/```
 
 Faça o download do arquivo [```modelo-v-1.zip```](./scripts/modelo-v-1.zip) para usar o modelo da ```home page,``` se quiser, e extráia para dentro de ```static``` do seu projeto.
 
 Mova o arquivo ```index.html``` que você extraiu do ```modelo-v-1.zip``` para o diretório ```layouts``` ou, se preferir, crie o seu próprio, junto com o diretório ```shortcodes```:
-
-
 
 ```bash
 # cria um arquivo index.html em layouts - pode substituir o comando ":>" por "touch" caso esteja no bash.
@@ -106,7 +129,7 @@ coloque esse código:
 </div>
 ```
 
-É importante modificar a página ```index.html,``` em ```layouts,``` pra que o ```blog``` funcione com as ```variáveis```  do ```hugo```.
+É importante modificar a página ```index.html,``` em ```layouts,``` pra que o ```blog``` funcione com as ```function```  do ```hugo```.
 
 - Coloque um ```/``` antes que  cada ```css```
 
@@ -118,7 +141,7 @@ coloque esse código:
 
 - No  lugar dessas ```div's``` chame o conteúdo definido no codeblocks de ```content/_index.md``` com a ```variável``` ```{{.Content}}```
 
-## No próximo vídeo vamos automatizar para listar cada conteúdo novo criado em content com seus respectivos atributos, como título, imagem, e conteúdo parcial.
+## No próximo vídeo vamos automatizar list.html, criar a single.html e começar a separar as partes da página em parcials.
 
 ---
 
