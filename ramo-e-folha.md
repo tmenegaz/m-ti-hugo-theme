@@ -51,7 +51,7 @@ A estrutura inicial ficou assim:
 
 ![Estrutura básica](./imagens/estrutura.png 'Estrutura básica gerada pelo comando "hugo new site m-ti-hugo-theme" e pacote de ramos com o comando "hugo new _index.md"')
 
-No seu arquivo ```_index.md``` escreva o ```title: "m ti - Moderna Tecnologia da Informação"``` e um pouco de conteúdo, como no [vídeo passado, para definir um shortcodes](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios").
+No seu arquivo ```_index.md``` escreva o ```title: "m ti - Moderna Tecnologia da Informação"``` e um pouco de conteúdo, como no [vídeo passado, para definir um shortcodes](./estrutura-dos-diretorios.md#layouts "Estrutura dos diretórios - layouts").
 
 Esse é oconteúdo de ```_index.md```
 
