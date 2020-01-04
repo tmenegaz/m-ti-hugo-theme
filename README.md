@@ -1,6 +1,6 @@
 # Publicações
 
-[![m ti](https://github.com/tmenegaz/m-ti-hugo-theme/blob/master/imagens/m%20ti-white.png)](https://www.youtube.com/c/mti_tmenegaz)
+[![m ti](http://i3.ytimg.com/vi/iYnQ6EgYZbA/maxresdefault.jpg)](https://youtu.be/iYnQ6EgYZbA)
 
 [Apresentação e instalação](./apresentacao-instalacao.md#gohugo)
 
