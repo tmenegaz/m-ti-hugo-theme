@@ -1,4 +1,4 @@
-[Readme](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")
+[Index](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")
 
 # Ramo e folha
 
@@ -149,4 +149,4 @@ coloque esse código:
 
 ---
 
-[Readme](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")
+[Index](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")
