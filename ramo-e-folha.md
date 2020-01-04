@@ -37,7 +37,7 @@ Conteúdo de arquivos de páginas que não são de index | Acessado apenas como 
 
 Então uma pacote de folha (Bundle Leaf) é um diretório em qualquer hierarquia dentro do ```content/,``` que contém um arquivo index.md.
 
-Mas o pacote de ramificação é considerado pelo hugo como uma seção, dá mesma forma que o primeiro nível de diretório em ```content.``` Vamos colocar o nosso ```_index.md``` no 1º nível de ```content.``` Lembrem-se de que o tipo de ```layout``` é ```lista``` para o pacote de ramos.
+Mas o pacote de ramificação é considerado pelo ```hugo``` como uma seção, dá mesma forma que o primeiro nível de diretório em ```content.``` Vamos colocar o nosso ```_index.md``` no 1º nível de ```content.``` Lembrem-se de que o tipo de ```layout``` é ```lista``` para o pacote de ramos.
 
 ```bash
 # apague seu projeto antigo caso não tenha feito
