@@ -1,6 +1,6 @@
 # Publicações
 
-[![m ti](http://i3.ytimg.com/vi/iYnQ6EgYZbA/maxresdefault.jpg)](https://youtu.be/iYnQ6EgYZbA title="m ti - moderna tecnologia da informação")
+[![m ti](http://i3.ytimg.com/vi/iYnQ6EgYZbA/maxresdefault.jpg "m ti - moderna tecnologia da informação")](https://youtu.be/iYnQ6EgYZbA)
 
 [Apresentação e instalação](./apresentacao-instalacao.md#gohugo)
 
