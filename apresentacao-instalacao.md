@@ -28,7 +28,7 @@
 
 - Pensou-se em Hugo como a ferramenta ideal de criação de sites com tempos de criação quase instantâneos, capazes de reconstruir sempre que uma alteração é feita.
 
-## Mas oque o Hugo faz?
+## Mas o que o Hugo faz?
 
 - Em termos técnicos, Hugo pega um diretório de origem de arquivos e modelos e os usa como entrada para criar um site completo.
 
