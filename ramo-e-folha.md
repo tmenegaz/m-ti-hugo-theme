@@ -1,4 +1,4 @@
-[Readme](./README.md#publicações "README") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./# "#")
+[Readme](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")
 
 # Ramo e folha
 
@@ -100,7 +100,7 @@ sudo cp static/images/float.jpg archetypes/post-bundle/images/
 ```
 
 >Copie e cole o conteúdo do ```archetypes/default.md``` para o arquivo ```archetypes/post-bundle/index.md```.
-> Agora crie o post do tipo de pacote folha(página única), ```Float layout``` 
+> Agora crie o post do tipo de pacote folha(página única): ```float-layout``` 
 
 ```bash
 # o primeiro post com --kind para determinar que é do tipo post-bundle na seção post-bundle
@@ -147,8 +147,6 @@ coloque esse código:
 
 - No  lugar dessas ```div's``` chame o conteúdo definido no codeblocks de ```content/_index.md``` com a ```variável``` ```{{.Content}}```
 
-## No próximo vídeo vamos automatizar list.html, criar a single.html e começar a separar as partes da página em parcials.
-
 ---
 
-[Readme](./README.md#publicações "README") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./# "#")
+[Readme](./README.md#publicações "index") | [<- Voltar](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") | [Próximo ->](./404.md#404 "404")

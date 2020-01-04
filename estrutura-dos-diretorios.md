@@ -1,4 +1,4 @@
-[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha.md#ramo-e-folha "Ramo e folha")
+[Readme](./README.md#publicações "index") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha.md#ramo-e-folha "Ramo e folha")
 
 # Estrutura dos diretórios
 
@@ -126,4 +126,4 @@ mkdir -p layouts/shortcodes/
 
 ---
 
-[Readme](./README.md#publicações "README") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha.md#ramo-e-folha "Ramo e folha")
+[Readme](./README.md#publicações "index") | [<- Voltar](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo") | [Próximo ->](./ramo-e-folha.md#ramo-e-folha "Ramo e folha")

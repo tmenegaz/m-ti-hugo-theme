@@ -1,4 +1,4 @@
-[Readme](./README.md#publicações "README") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")
+[Readme](./README.md#publicações "index") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")
 
 # Ambiente de desenvolvimento, comandos básicos, theme e conteúdo
 
@@ -154,4 +154,4 @@ hugo server -D
 
 ---
 
-[Readme](./README.md#publicações "README") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")
+[Readme](./README.md#publicações "index") | [<- Voltar](./apresentacao-instalacao.md#gohugo "Apresentação e instalação") | [Próximo ->](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios")

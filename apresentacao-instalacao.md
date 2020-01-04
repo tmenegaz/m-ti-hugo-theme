@@ -1,4 +1,4 @@
-[Readme](./README.md#publicações "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo")
+[Readme](./README.md#publicações "index") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo")
 
 # [GOHUGO](https://gohugo.io)
 
@@ -92,4 +92,4 @@ brew install hugo
 
 ---
 
-[Readme](./README.md#publicações "README") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo")
+[Readme](./README.md#publicações "index") | [Próximo ->](./comandos-basicos-theme-conteudo.md#ambiente-de-desenvolvimento-comandos-básicos-theme-e-conteúdo "Comandos básicos, theme e conteúdo")
