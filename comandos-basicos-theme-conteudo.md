@@ -125,7 +125,7 @@ cd m-ti-hugo-theme
 
 - Nesse vídeo também tem informações sobre como instalar alguns plugins no sublime-text3.
 
-- vamos escrver no terminal, no diretório do meu site ```m-ti-hugo-theme```:
+- vamos escrever no terminal, no diretório do meu site ```m-ti-hugo-theme```:
 
 ```bash
 # cria uma pasta oculta chamada .git com as configurações necessárias para usar o git, a partir daqui
