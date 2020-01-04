@@ -2,9 +2,13 @@
 
 # Ramo e folha
 
-[![Hugo - folha , ramo e layouts/1](http://i3.ytimg.com/vi/rWdilEzyODo/hqdefault.jpg)](https://youtu.be/rWdilEzyODo)
+### Hugo - folha , ramo e layouts/1
 
-[![Hugo - folha , ramo e layouts/2](http://i3.ytimg.com/vi/2TvjRkOvjXI/hqdefault.jpg)](https://youtu.be/2TvjRkOvjXI)
+[![Hugo - folha , ramo e layouts/1](http://i3.ytimg.com/vi/rWdilEzyODo/hqdefault.jpg "Hugo - folha , ramo e layouts/1")](https://youtu.be/rWdilEzyODo)
+
+### Hugo - folha , ramo e layouts/2
+
+[![Hugo - folha , ramo e layouts/2](http://i3.ytimg.com/vi/2TvjRkOvjXI/hqdefault.jpg "Hugo - folha , ramo e layouts/2")](https://youtu.be/2TvjRkOvjXI)
 
  Os pacotes de páginas são a principal forma de organizar os arquivos de conteúdo. Os nós de folhas e galhos das árvores de [```Estrutura de Dados```](https://en.wikipedia.org/wiki/Tree%5F(data%5Fstructure)) servem como uma grande analogia para ajudar a se relacionar com os pacotes configuráveis do ​​Hugo. Você pode escolher duas meneiras distintas de organizar seu pacotes.
 
