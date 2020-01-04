@@ -8,7 +8,7 @@
 
 - Abra o seu editor no projeto que você criou, conforme o vídeo anterior e deixe o terminal aberto.
  
-- Você lembra que a CLI de Hugo cria uma estrutura de diretórios de projeto, pega esse diretório único e o usa como entrada para criar um site completo. Isso aconteceu quando você digitou ```hugo new site``` e atribuiu um nome pro seu site, que foi ```m-ti-hugo-theme```.
+- Você lembra que a CLI de Hugo cria uma estrutura de diretórios de projeto: o hugo pega esse diretório único e o usa como entrada para criar um site completo. Isso aconteceu quando você digitou ```hugo new site``` e atribuiu um nome pro seu site, que foi ```m-ti-hugo-theme```.
 
 - No terminal digite ```ls -h``` para ter uma visão mais humana da forma como estão organizados os diretórios e arquivos. Você també pode ver pelo seu editor.
 
