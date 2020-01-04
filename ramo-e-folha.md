@@ -81,7 +81,7 @@ Esse é oconteúdo de ```_index.md```
 >}}
 ```
 
-É importante organizar os diretórios e seguir as regras do ```hugo.``` Vimos que um dos fundomantos do ```hugo``` são os [pacotes de página](./ramo-e-folha.md#ramo-e-folha) e agora poderemos organizar os diretórios de ```content``` com uma [estrutura de diretórios](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") como essa:
+É importante organizar os diretórios e seguir as regras do ```hugo.``` Vimos que um dos fundomantos do ```hugo``` é se estruturar em [pacotes de páginas](./ramo-e-folha.md#ramo-e-folha) e agora poderemos organizar os diretórios de ```content``` com uma [estrutura de diretórios](./estrutura-dos-diretorios.md#estrutura-dos-diretórios "Estrutura dos diretórios") como essa:
 
 
 ```bash
